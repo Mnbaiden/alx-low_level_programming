@@ -2,12 +2,12 @@
 
 /**
  * main - function finds and prints the largest
- * 	prime factor of the number 61282475143.
+ * prime factor of the number 61282475143.
  *
  * Return: Always 0 (success)
  */
 
-int main (void)
+int main(void)
 {
 	long prime = 612852475143, divisor;
 
