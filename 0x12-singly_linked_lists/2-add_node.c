@@ -15,7 +15,7 @@ int _strlen(const char *s)
 	}
 
 	return (i);
-} 
+}
 
 /**
  * add_node - add a new node at beginning of a list_t list.
@@ -38,4 +38,4 @@ list_t *add_node(list_t **head, const char *str)
 
 
 	return (add);
-} 
+}
